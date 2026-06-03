@@ -7,7 +7,7 @@ Created a personal webpage using HTML only to practice webpage structure and sem
 ### Result Screenshot
 
 ![Project 1](p1a.png)
-![Project 1](p2a.png)
+![Project 1](p1b.png)
 
 ## Project 2 – Portfolio Website (HTML + CSS)
 
